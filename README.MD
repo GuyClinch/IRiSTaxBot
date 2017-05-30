@@ -10,7 +10,7 @@ Reason IRiS is required because in 2016 104 million callers attempted to speak t
 
 IRiS can positively impact these numbers by allowing more efficient processing of caller request. One way is described in the infographic IRiS™ Automated Caller Assistance (coming soon). In this scenario callers to the IRS Tax Assistance helpline are offered the option to interact with IRiS while awaiting to speak with an available human assitor.
 
-The average duration for callers in queue to 1-800-829-1040 awaiting to speak with a human assitor is 18 minutes. Callers spend this time mostly unproductive. With IRiS’ natural language interface, callers may attempt to answer their own questions by interacting with IRiS via one of the many optional channels. 
+The average duration for callers in queue to 1-800-829-1040 awaiting to speak with a human assitor is 18 minutes. Callers spend this time mostly unproductive. With IRiS’ natural language interface, callers may offered the opportunity to tunr this unproductive time to their advantage by interacting with IRiS in attempts to answer their own questions via one of the many popular conversational optional channels such as Facebook Messenger.  
 
 A second way IRiS may help is detailed in the infographic IRiS™ Automated Calltaker Assistance (https://goo.gl/NWvOQP). In this way IRiS may also be used to streamline the ability for IRS telephone assitors to locate the answers to taxpayer questions more efficiently. 
 
