@@ -6,7 +6,7 @@ It is envisioned that IRiS will be used in conjunction with the IRS Tax Assistan
  
  •	to help the IRS telephone assitor to more efficiently obtain needed answers to questions while interacting with a taxpayer who is on the telephone.
 
-Reason IRiS is required because in 2016 104 million callers attempted to speak to a human via the IRS Tax Assistance helpline.  The IRS call centers serves only 25 percent of these callers.
+Reason IRiS is required because in 2016 104 million callers attempted to speak to a human via the IRS Tax Assistance helpline.  In 2016 IRS call centers served only 25 percent of these callers via a human telephone assistor.
 
 IRiS can positively impact these numbers by allowing more efficient processing of caller request. One way is described in the infographic IRiS™ Automated Caller Assistance (coming soon). In this scenario callers to the IRS Tax Assistance helpline are offered the option to interact with IRiS while awaiting to speak with an available human assitor.
 
