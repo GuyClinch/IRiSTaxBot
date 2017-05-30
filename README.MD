@@ -12,7 +12,7 @@ IRiS can positively impact these numbers by allowing more efficient processing o
 
 The average duration for callers in queue to 1-800-829-1040 awaiting to speak with a human assitor is 18 minutes. Callers spend this time mostly unproductive. With IRiS’ natural language interface, callers may attempt to answer their own questions by interacting with IRiS via one of the many optional channels. 
 
-A second way IRiS may help is detailed in the infographic IRiS™ Automated Calltaker Assistance (https://goo.gl/kulYLS). In this way IRiS may also be used to streamline the ability for IRS telephone assitors to locate the answers to taxpayer questions more efficiently. 
+A second way IRiS may help is detailed in the infographic IRiS™ Automated Calltaker Assistance (https://goo.gl/NWvOQP). In this way IRiS may also be used to streamline the ability for IRS telephone assitors to locate the answers to taxpayer questions more efficiently. 
 
 IRiS is currently exposed for demonstration purposes via Skype. Those interested in a test drive, please visit https://bots.botframework.com/bot?id=IRiSTaxBot to add IRiS as a chat channel in Skype. (Please note: IRiS may not available via Skype for Business due to security parameters of the individual Skype for Business deployment.) 
 
